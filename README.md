@@ -33,6 +33,7 @@ Link to analysis on Excel
 ### 1. Casual riders ride for leisure on weekends and for commute on weekday evenings (rush hour), whereas member riders ride mainly for commute on weekday mornings and evenings, although they also ride for leisure on weekends.
 
 ![](No-of-rides-by-Day-of-week-Casual-vs-Member.png)
+
 **No. of rides by Day of Week (Casual vs. Member)** 
 
 As you can see above:
@@ -40,6 +41,7 @@ As you can see above:
 - Members tend to ride on weekdays more -> Rides are more of a necessity for commute to/from work
 
 ![](No-of-rides-by-start-hour-Casual-vs-Member.png)
+
 **No. of rides by Hour when the journey started (Casual vs. Member)**
 
 - For casual riders, only spike during evening time (could be commuting during rush hour on weekdays or weekends).
@@ -47,6 +49,7 @@ As you can see above:
 - Not sure how this differs between weekdays and weekends, so we further dissect the data as seen below:
   
 ![](No-of-rides-Weekdays-by-start-hour-Casual-vs-Member.png)
+
 **No. of rides on Weekdays by Hour when the journey started (Casual vs. Member)**
 
 - Filtering for only weekdays (Mon to Fri inclusive), we see that the trend is similar to the general trend, where casual riders have one spike in rides (4 to 6pm), whereas member riders have two spikes (7 to 9am).
@@ -55,6 +58,7 @@ As you can see above:
 ### 2. Casual riders typically ride longer per ride, which may signal they do so for leisure, and also to make use of the price they paid per ride. Members on the other hand typically ride for very short periods (mostly less than 10 minutes), possibly for commuting.
 
 ![](No-of-rides-by-duration-Casual-vs-Members.png)
+
 **No. of rides by duration (Casual riders vs. Members)**
 
 - We can infer here that a larger proportion of casual riders ride long rides (more than 30 minutes) than members (more casual riders riding in the "30 to 60" and "Over 60" buckets than members, despite fewer casual riders overall).
