@@ -8,7 +8,7 @@ We want to identify how casual and annual riders differ, what would encourage ca
 
 ## Data Structure Overview
 
-Due to time limits I did not check on the quality of data – I should revisit this when redoing the project
+Downloaded the last 12 months of data (07/2024 to 06/2025)
 
 ## Executive Summary 
 
@@ -89,3 +89,4 @@ As you can see above:
 5. After loading the data from Power Query, I created a Pivot table and conducted exploratory data analysis by creating visualizations. I pasted the charts/graphs into the EDA Sheet, wrote bullet points on what I can observe from the visualization. I highlighted in green the insights that are meaningful to my analysis (i.e. I can observe a trend or clear difference).
 6. I then created another sheet to answer the business question with my EDA (My Recommendations).
 7. I documented my steps here, and also my report in this Github file.
+8. Did this project in July 2025
