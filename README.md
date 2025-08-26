@@ -29,7 +29,7 @@ Due to time limits I did not check on the quality of data – I should revisit t
 
 Casual riders ride for leisure on weekends and for commute on weekday evenings (rush hour), whereas member riders ride mainly for commute on weekday mornings and evenings, although they also ride for leisure on weekends.
 
-![](No. of rides by Day of Week (Casual vs. Member).png)
+![](No-of-rides-by-Day-of-week-Casual-vs-Member.png)
 No. of rides by Day of Week (Casual vs. Member)
 
 As you can see above ,
